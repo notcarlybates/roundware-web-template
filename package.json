@@ -50,7 +50,7 @@
 		"react-router-dom": "^5.2.0",
 		"react-share": "^4.4.0",
 		"regenerator-runtime": "^0.13.9",
-		"roundware-web-framework": "^0.12.8-alpha.14",
+		"roundware-web-framework": "^0.12.8-alpha.15",
 		"ts-overlapping-marker-spiderfier": "^1.0.3",
 		"wavesurfer-react": "https://github.com/shreyas-jadhav/wavesurfer-react/raw/tarball/wavesurfer-react-2.0.13.tgz",
 		"wavesurfer.js": "^5.2.0",
